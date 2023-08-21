@@ -1,0 +1,5 @@
+newmtl CanLid
+map_Kd TunaCanLid.png
+Kd 1 1 1
+d 1
+

@@ -1,0 +1,5 @@
+newmtl CanMaterial
+map_Kd TunaCanBody.png
+Kd 1 1 1
+d 1
+
